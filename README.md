@@ -1,5 +1,5 @@
 # Interactive-3D-Image-Viewer
-Interactive 3D Image Viewer Using Gyroscopic Sensor and Unity 3D:  This project was developed as part of a final year research project in 2022, titled "Interactive 3D Image Viewer Using Gyroscopic Sensor and Unity 3D."
+This project was developed as part of a final year research project in 2022, titled "Interactive 3D Image Viewer Using Gyroscopic Sensor and Unity 3D."
 
 It uses an Arduino UNO connected to an MPU6050 gyroscopic sensor to control and interact with virtual 3D images. Users can physically rotate a device to manipulate 3D models, and toggle different parts of the images through an on-screen interface. Some models also include motion graphics.
 
